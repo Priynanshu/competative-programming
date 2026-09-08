@@ -6,10 +6,10 @@ int main() {
     cin >> n;
 
     bool lastFlag = false;
-    int countFirst = 0;
-    int firstPoint = 0;
-    int countSecond = 0;
-    int secondPoint = 0;
+    long long countFirst = 0;
+    long long firstPoint = 0;
+    long long countSecond = 0;
+    long long secondPoint = 0;
 
     vector<int> first;
     vector<int> second;
